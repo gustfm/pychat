@@ -11,5 +11,10 @@ $ pip install socket
 $ pip install thread
 ```
 
-Após ter instalado as bibliotecas, abra duas janelas para o terminal ou cmd (Caso esteja no windows) e execute o arquivo `chat.py`.
+Após ter instalado as bibliotecas, abra duas janelas para o terminal ou cmd (Caso esteja no windows) e execute o arquivo `chat.py` em cada uma delas.
 
+```bash
+$ python chat.py
+```
+
+No primeiro terminal digite (2) para ficar esperando uma conexão. No segundo terminal digite (1) para fazer uma conexão.
