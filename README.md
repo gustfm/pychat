@@ -1,4 +1,5 @@
-# pyChat
+<h1 align='center'>💻 pyChat</h1>
+
 Um chat feito em python utilizando a arquitetura Peer to peer para a aula de Banco de dados distribuidos (FATEC SJC).<br />
 `Obs: Ainda será adicionado um encrypt das mensagens enviadas para que assim que conectar realizar a troca das chaves publicas.`
 
