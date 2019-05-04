@@ -1,6 +1,17 @@
 <h1 align='center'>💻 pyChat</h1>
 
-Um chat feito em python com criptografia das mensagens enviadas utilizando a arquitetura Peer to peer para a aula de Banco de dados distribuidos (FATEC SJC).<br />
+Chat feito em `python 3.7`utilizando a arquitetura `peer-to-peer (p2p)` e `criptografia`.<br />
+
+### Motivação
+Este simples projeto foi feito para a aula de Banco de dados distribuídos.
+
+### Bibliotecas
+Foi utilizado as seguintes bibliotecas:
+
+* socket
+* thread
+* rsa
+* pickle
 
 ### Instalando as dependencias:
 Primeiramente você precisa ter o pip instalado no seu computador, após feito isso, rode:
@@ -12,7 +23,7 @@ $ pip install pickle
 $ pip install rsa
 ```
 
-Após ter instalado as bibliotecas, abra duas janelas para o terminal ou cmd (Caso esteja no windows) e execute o arquivo `chat.py` em cada uma delas.
+Após ter instalado as bibliotecas, abra duas janelas do terminal ou cmd (Caso esteja no windows) e execute o arquivo `chat.py` em cada uma delas com o seguinte comando:
 
 ```bash
 $ python chat.py
