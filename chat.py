@@ -4,7 +4,7 @@ import pickle
 from threading import Thread
 
 '''
-Autores: Gustavo Soares, Cesar Augusto, Jonathan Cesar
+Autores: Gustavo Soares
 '''
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
